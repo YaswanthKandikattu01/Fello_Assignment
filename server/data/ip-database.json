@@ -1,0 +1,22 @@
+[
+  { "range": "34.192.0.0/12", "company": "Acme Mortgage", "domain": "acmemortgage.com", "industry": "Mortgage Lending", "size": "200 employees", "location": "Dallas, Texas, USA" },
+  { "range": "52.94.0.0/12", "company": "Amazon", "domain": "amazon.com", "industry": "E-Commerce / Cloud Computing", "size": "1500000+ employees", "location": "Seattle, Washington, USA" },
+  { "range": "13.64.0.0/12", "company": "Microsoft", "domain": "microsoft.com", "industry": "Technology", "size": "220000+ employees", "location": "Redmond, Washington, USA" },
+  { "range": "35.190.0.0/12", "company": "Google", "domain": "google.com", "industry": "Technology / Search", "size": "180000+ employees", "location": "Mountain View, California, USA" },
+  { "range": "17.0.0.0/8", "company": "Apple", "domain": "apple.com", "industry": "Consumer Electronics / Technology", "size": "164000+ employees", "location": "Cupertino, California, USA" },
+  { "range": "157.240.0.0/16", "company": "Meta", "domain": "meta.com", "industry": "Social Media / Technology", "size": "67000+ employees", "location": "Menlo Park, California, USA" },
+  { "range": "104.16.0.0/12", "company": "Cloudflare", "domain": "cloudflare.com", "industry": "Cybersecurity / CDN", "size": "3800+ employees", "location": "San Francisco, California, USA" },
+  { "range": "198.41.0.0/16", "company": "Salesforce", "domain": "salesforce.com", "industry": "CRM / Cloud Computing", "size": "73000+ employees", "location": "San Francisco, California, USA" },
+  { "range": "185.166.0.0/16", "company": "BrightPath Lending", "domain": "brightpathlending.com", "industry": "Mortgage Lending", "size": "150 employees", "location": "Chicago, Illinois, USA" },
+  { "range": "192.30.252.0/22", "company": "GitHub", "domain": "github.com", "industry": "Software Development", "size": "3000+ employees", "location": "San Francisco, California, USA" },
+  { "range": "34.201.0.0/16", "company": "Summit Realty Group", "domain": "summitrealtygroupllc.com", "industry": "Real Estate", "size": "75 employees", "location": "Nashville, Tennessee, USA" },
+  { "range": "34.202.0.0/16", "company": "Rocket Mortgage", "domain": "rocketmortgage.com", "industry": "Mortgage Lending / FinTech", "size": "25000+ employees", "location": "Detroit, Michigan, USA" },
+  { "range": "34.203.0.0/16", "company": "Redfin", "domain": "redfin.com", "industry": "Real Estate Technology", "size": "6000+ employees", "location": "Seattle, Washington, USA" },
+  { "range": "34.204.0.0/16", "company": "Compass Real Estate", "domain": "compass.com", "industry": "Real Estate Technology", "size": "28000+ employees", "location": "New York City, New York, USA" },
+  { "range": "64.233.160.0/19", "company": "HubSpot", "domain": "hubspot.com", "industry": "Marketing Automation / CRM", "size": "7400+ employees", "location": "Cambridge, Massachusetts, USA" },
+  { "range": "54.239.0.0/16", "company": "Stripe", "domain": "stripe.com", "industry": "Financial Technology / Payments", "size": "8000+ employees", "location": "San Francisco, California, USA" },
+  { "range": "34.205.0.0/16", "company": "Zillow", "domain": "zillow.com", "industry": "Real Estate Technology", "size": "6500+ employees", "location": "Seattle, Washington, USA" },
+  { "range": "34.206.0.0/16", "company": "LoanDepot", "domain": "loandepot.com", "industry": "Mortgage Lending", "size": "8000+ employees", "location": "Foothill Ranch, California, USA" },
+  { "range": "34.207.0.0/16", "company": "Better.com", "domain": "better.com", "industry": "Mortgage Lending / FinTech", "size": "3000+ employees", "location": "New York City, New York, USA" },
+  { "range": "34.208.0.0/16", "company": "United Wholesale Mortgage", "domain": "uwm.com", "industry": "Mortgage Lending", "size": "9000+ employees", "location": "Pontiac, Michigan, USA" }
+]
