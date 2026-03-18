@@ -1,13 +1,13 @@
 # AccountIQ - AI Account Intelligence & Enrichment System
 
-AccountIQ is a comprehensive AI-powered system designed to solve the two biggest data problems facing sales and marketing teams: anonymous website visitors and incomplete company data.
+AccountIQ is a comprehensive AI-powered SYstem designed to solve the two biggest data problems facing sales and marketing teams: anonymous website visitors and incomplete company data.
 
 By converting raw visitor signals and minimal company inputs into structured, actionable intelligence, AccountIQ enables revenue teams to identify high-intent accounts, understand their technology stack, and prioritize outreach.
 
 ![AccountIQ Dashboard](https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=1200&q=80) 
 *(Illustrative banner)*
 
-## 🚀 Key Features
+## Key Features
 
 *   **Visitor Signal Analysis:** Converts anonymous IP addresses and browsing behavior into enriched company profiles.
 *   **Persona Inference Engine:** Analyzes the pages visited (e.g., `/pricing` vs `/api`) to determine the likely role, seniority, and department of the visitor.
@@ -16,7 +16,7 @@ By converting raw visitor signals and minimal company inputs into structured, ac
 *   **Generative AI Intelligence:** Uses Google Gemini (2.0 Flash) to synthesize all signals into a cohesive company profile, extracting business signals, leadership contacts, tailored talking points, and recommended sales actions.
 *   **Batch Processing:** Bulk process multiple companies at once for rapid pipeline enrichment.
 
-## 🏗 System Architecture & Design
+##  System Architecture & Design
 
 AccountIQ is built with a modern, decoupled architecture focusing on speed, extensibility, and AI integration.
 
@@ -35,7 +35,7 @@ AccountIQ is built with a modern, decoupled architecture focusing on speed, exte
 
 *(Note: The system includes a graceful semantic fallback if no Gemini API key is provided, ensuring the prototype is always functional).*
 
-## 💻 Getting Started (Running Locally)
+##  Getting Started (Running Locally)
 
 To run the full end-to-end prototype on your local machine:
 
@@ -84,4 +84,3 @@ To run the full end-to-end prototype on your local machine:
 6.  Try **Batch Processing** to queue multiple companies at once.
 
 ---
-*Built for the Fello AI Builder Hackathon*
